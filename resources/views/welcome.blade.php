@@ -1,7 +1,6 @@
 <x-layout>
     <x-slot:heading>
-    Welcome
+        Welcome
     </x-slot>
-    <h1> 
-        
-    </h1>
+ <h1>Welcome Page</h1>
+</x-layout>
